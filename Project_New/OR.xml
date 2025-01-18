@@ -1,0 +1,14 @@
+<Environment>
+	<Variable>
+		<Name>BrowserType</Name>
+		<Value><![CDATA["Chrome.exe"]]></Value>
+	</Variable>
+	<Variable>
+		<Name>URL</Name>
+		<Value><![CDATA["https://amigo.amityonline.com/login/index.php"]]></Value>
+	</Variable>
+	<Variable>
+		<Name>ObjectRepositoryVBSPath</Name>
+		<Value><![CDATA["C:\Users\ASUS\Documents\FrameWork\Project_New\ObjectRepository.vbs"]]></Value>
+	</Variable>
+</Environment>

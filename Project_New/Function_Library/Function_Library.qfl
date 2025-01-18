@@ -1,0 +1,8 @@
+﻿'Comman Function Librabry
+
+Function waitTime(Byval waitForObject)
+	wait waitForObject
+End Function
+
+
+
